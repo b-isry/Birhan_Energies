@@ -1,3 +1,6 @@
 pandas
 seaborn
 numpy
+pymc
+arviz
+theano
